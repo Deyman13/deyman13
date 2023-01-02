@@ -5,7 +5,8 @@
 ---
 ## ***Now I'm learning Python***
 
-Languages and tools
+## Languages and tools
+![Python](https://img.shields.io/badge/-Python-BD33A4?style=for-the-badge&logo=python&logoColor=blue)
 
 
 
