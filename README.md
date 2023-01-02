@@ -5,14 +5,14 @@
 ---
 
 ### **Languages and tools**
-![Python](https://img.shields.io/badge/-Python-531A50?style=for-the-badge&logo=python&logoColor=FFDB58)
+![Python](https://img.shields.io/badge/-Python-1A162A?style=for-the-badge&logo=python&logoColor=FFDB58)
 
 ### **Follow me**
-[![VK](https://img.shields.io/badge/-VK-531A50?style=for-the-badge&logo=VK&logoColor=4E7DB3)](https://vk.com/id205569455)
-[![Telegram](https://img.shields.io/badge/-Telegram-531A50?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Deyman13)
+[![VK](https://img.shields.io/badge/-VK-1A162A?style=for-the-badge&logo=VK&logoColor=4E7DB3)](https://vk.com/id205569455)
+[![Telegram](https://img.shields.io/badge/-Telegram-1A162A?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Deyman13)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deyman13&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deyman13&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deyman13&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deyman13&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
