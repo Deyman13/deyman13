@@ -1,4 +1,4 @@
-![Header](https://github.com/Deyman13/deyman13/blob/main/assets/QVko.gif)
+![Header](https://github.com/Deyman13/deyman13/blob/main/assets/7ZiU.gif)
 
 
 ## ***I am beginer Machine Learning Engineer***.
@@ -6,7 +6,7 @@
 ## ***Now I'm learning Python***
 
 ## Languages and tools
-![Python](https://img.shields.io/badge/-Python-BD33A4?style=for-the-badge&logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/-Python-531A50?style=for-the-badge&logo=python&logoColor=FFDB58)
 
 
 
