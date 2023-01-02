@@ -1,7 +1,9 @@
 ![Header](https://github.com/Deyman13/deyman13/blob/main/assets/QVko.gif)
 
 
-About me (обо мне)
+## ***I am beginer Machine Learning Engineer***.
+---
+## ***Now I'm learning Python***
 
 Languages and tools
 
