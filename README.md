@@ -11,4 +11,8 @@
 [![VK](https://img.shields.io/badge/-VK-531A50?style=for-the-badge&logo=VK&logoColor=4E7DB3)](https://vk.com/id205569455)
 [![Telegram](https://img.shields.io/badge/-Telegram-531A50?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Deyman13)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deyman13&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deyman13&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 
